@@ -33,3 +33,21 @@ Online Job Portal System is a web application that allows users to register, sea
 2. Configure MySQL database
 3. Run Spring Boot backend
 4. Start React frontend
+
+
+## Project Screenshots
+
+### Login Page
+LoginPage.png
+
+### Admin Home Page
+AdminHomePage.png
+
+### Admin Application Page
+AdminApplicationPage.png
+
+### Admin Add Job Page
+AdminAddJobPage.png
+
+### User Home Page
+UserHomePage.png
