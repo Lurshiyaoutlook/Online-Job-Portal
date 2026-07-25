@@ -38,16 +38,16 @@ Online Job Portal System is a web application that allows users to register, sea
 ## Project Screenshots
 
 ### Login Page
-![Login Page](LoginPage.png)
+![Login Page](Screenshots/LoginPage.png)
 
 ### Admin Home Page
-![Admin Home](AdminHomePage.png)
+![Admin Home](Screenshots/AdminHomePage.png)
 
 ### Admin Application Page
-![Admin Application](AdminApplicationPage.png)
+![Admin Application](Screenshots/AdminApplicationPage.png)
 
 ### Admin Add Job Page
-![Admin Add Job](AdminAddJobPage.png)
+![Admin Add Job](Screenshots/AdminAddJobPage.png)
 
 ### User Home Page
-![User Home](UserHomePage.png)
+![User Home](Screenshots/UserHomePage.png)
